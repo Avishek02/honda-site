@@ -1,0 +1,77 @@
+/* custom colors */
+.color-01 {
+  color: #e77c40;
+}
+.primary-color {
+  color: #23a6f0;
+}
+
+
+
+/* Global designs */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-weight: 600;
+}
+h6{
+    font-weight: 300;
+}
+p{
+    font-weight: 400;
+}
+
+
+
+/* Header section */
+.header {
+  background-color: #264653;
+}
+
+.header h1{
+    color: #FFFFFF;
+}
+
+.header h6, .header p{
+    color: #E0E0E0;
+}
+
+.modal-custom-css{
+    background-color: #e77c40;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+
+
+/* Featured Section */
+.img-grayscale {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+}
+
+
+/* Review Section */
+.reviews img {
+  width: 149px;
+  height: 149px;
+}
+
+
+/* icons */
+.fas,
+.far {
+  color: #e77c40;
+}
+
+
+/* Subscription section */
+.subscription{
+    background-color: #FEEAE9;
+}
+.subscription button{
+    background-color: #e77c40;
+    color: #FFFFFF;
+    font-weight: 400;
+}
